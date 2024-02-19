@@ -35,7 +35,7 @@ I am currently immersed in the field of software engineering, honing my skills a
 
 Connect With Me
 
-LinkedIn https://www.linkedin.com/in/hinga/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLsvnhwkzRFmQ0yOQ6rmBnQ%3D%3D on LinkedIn
+LinkedIn www.linkedin.com/in/hinga on LinkedIn
 
 GitHub: https://github.com/Hinga-inc on GitHub
 
