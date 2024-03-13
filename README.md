@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [frontend dev](https://github.com/Hinga-inc/PeGeR)
 
-- 🌱 I’m currently learning **JavaScript, and Css**
+- 🌱 I’m currently learning **JavaScript, and Python **
 
-- 👯 I’m looking to collaborate on [this same repo](https://github.com/Hinga-inc/PeGeR)
+- 👯 I’m looking to collaborate on [a website yet to come]
 
 - 🤝 I’m looking for help with **understanging .js scripting**
 
-- 💬 Ask me about **HTML, C.**
+- 💬 Ask me about **HTML, styling of a website, python, C.**
 
 - 📫 How to reach me **hingapeter18@gmail.com**
 
