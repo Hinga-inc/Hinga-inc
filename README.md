@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [frontend dev](https://github.com/Hinga-inc/PeGeR)
 
-- 🌱 I’m currently learning **JavaScript, and Python **
+- 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on [a website yet to come]
+- 👯 I’m looking to collaborate on **full-stack(MERN) development**
 
-- 🤝 I’m looking for help with **understanging .js scripting**
+- 🤝 I’m looking for help with **understanging Deep Learning.**
 
-- 💬 Ask me about **HTML, styling of a website, python, C.**
+- 💬 Ask me about **client-side scripting, python, C.**
 
 - 📫 How to reach me **hingapeter18@gmail.com**
 
