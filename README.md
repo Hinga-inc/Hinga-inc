@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hinga-inc" alt="hinga-inc" /></a> </p>
 
-- 🔭 I’m currently working on [frontend dev](https://github.com/Hinga-inc/PeGeR)
+- 🔭 I’m currently working on [full-stack web development](https://github.com/Hinga-inc/PeGeR)
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on **full-stack(MERN) development**
+- 👯 I’m looking to collaborate on **full-stack web (MERN) development**
 
 - 🤝 I’m looking for help with **understanging Deep Learning.**
 
