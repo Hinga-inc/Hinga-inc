@@ -17,7 +17,7 @@
 
 - 📫 How to reach me:
   - [email me](hingapeter18@gmail.com)
-  - [dm me on X](https://x.com/HingaPeterK)
+  - [Tweet me on X](https://x.com/HingaPeterK)
 
 - ⚡ Fun fact **"Hinga" is a name that conveys strength and resilience. It symbolizes someone who is steadfast and determined in the face of challenges. I bet you now know who you are working with**
 
