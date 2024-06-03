@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hinga-inc" alt="hinga-inc" /></a> </p>
 
-- 🔭 I’m currently working on [full-stack web development](https://github.com/Hinga-inc/PeGeR)
+- 🔭 I’m currently working on full-stack web development
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on **full-stack web (MERN) development**
+- 👯 I’m looking to collaborate on **MERN stack**
 
-- 🤝 I’m looking for help with **understanging Deep Learning.**
+- 🤝 I’m looking for help with **WEB Hosting**
 
-- 💬 Ask me about **client-side scripting, python, C.**
+- 💬 Ask me about **client-side scripting, python, C, MySQL, JS.**
 
-- 📫 How to reach me **hingapeter18@gmail.com**
+- 📫 How to reach me [email](hingapeter18@gmail.com)
 
 - ⚡ Fun fact **"Hinga" is a name that conveys strength and resilience. It symbolizes someone who is steadfast and determined in the face of challenges. I bet you now know who you are working with**
 
