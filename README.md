@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hinga-inc" alt="hinga-inc" /></a> </p>
 
-- 🔭 I’m currently working on full-stack web development
+- 🔭 I’m currently working on **full-stack web development**
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **MERN stack**
+- 👯 I’m looking to collaborate on **LAMP stack**
 
 - 🤝 I’m looking for help with **WEB Hosting**
 
-- 💬 Ask me about **Client-side scripting, Python, C, MySQL, JS, Linux, Git.**
+- 💬 Ask me about **Front-End Development, Python, C, JS, Linux, MySQL, Git.**
 
 - 📫 How to reach me:
   - [email me](hingapeter18@gmail.com)
