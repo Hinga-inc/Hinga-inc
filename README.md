@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Front-End Development, Python, C, JS, Linux, MySQL, Git.**
 
-- 📫 How to reach me: [text me on whatsapp](https://wa.me/0114221898)
+- 📫 How to reach me: [text me](https://wa.me/0114221898)
 
 - ⚡ Fun fact **"Hinga" is a name that conveys strength and resilience. It symbolizes someone who is steadfast and determined in the face of challenges. I bet you now know who you are working with**
 
