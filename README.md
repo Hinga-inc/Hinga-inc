@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **LAMP stack**
 
-- 🤝 I’m looking for help with **WEB Hosting**
+- 🤝 I’m looking for help with **Web Hosting**
 
 - 💬 Ask me about **Front-End Development, Python, C, JS, Linux, MySQL, Git.**
 
