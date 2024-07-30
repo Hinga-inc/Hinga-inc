@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **full-stack web development**
 
-- 🌱 I’m currently learning **The ssh**
+- 🌱 I’m currently learning **The secure shell**
 
 - 👯 I’m looking to collaborate on **LAMP stack**
 
