@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hinga-inc" alt="hinga-inc" /></a> </p>
 
-- 🔭 I’m currently working on **full-stack web development**
+- 🔭 I’m currently working on **server development and maintenance**
 
 - 🌱 I’m currently learning **The secure shell**
 
