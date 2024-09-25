@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **The secure shell**
 
-- 👯 I’m looking to collaborate on **LAMP stack**
+- 👯 I’m looking to collaborate on **deplyoment**
 
 - 🤝 I’m looking for help with **Web Hosting**
 
